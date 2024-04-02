@@ -6,7 +6,7 @@
     💼 Estácio - Cybersecurity
     💻 Pentest • Hack The Box
     🎮 Music • Games • Anime • Pentest
-    🔨 Python • Ruby • GO • SQL • Shell
+    🔨 Python • Ruby • C++ • Shell
         follow the white rabbit
 </pre>
 <br><br>
