@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://i.pinimg.com/564x/cd/34/e9/cd34e92afe985f653076a675e09b8604.jpg" width="27%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Hello;Im+Kaio%2C+a+pentester+from+Brazil" alt="Typing SVG"" width="70%" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+I'm+Kaio.)](https://git.io/typing-svg)
 <br><br>
 <pre>
     💼 Estácio - Cybersecurity
