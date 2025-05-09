@@ -4,8 +4,8 @@
 <br><br>
 <pre>
     💼 Estácio - Cybersecurity
-    💻 Pentest • Hack The Box
-    🎮 Music • Games • Anime • Pentest
+    💻 Blue Team • SOC • Threat Intelligence
+    🎮 Music • Games • Anime • CTF 
     🔨 Python • Ruby • C++ • Shell
         follow the white rabbit
 </pre>
@@ -14,6 +14,5 @@
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/kaiobarbosa/)
-[![](https://img.shields.io/badge/steam-red)](https://steamcommunity.com/id/yoshiruh/)
-![](https://img.shields.io/badge/hackthebox-yoshiroh-black)
+![https://tryhackme.com/p/Yoshiroh](https://img.shields.io/badge/tryhackme-brightgreen)
 </div>
