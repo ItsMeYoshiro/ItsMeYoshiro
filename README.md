@@ -14,5 +14,5 @@
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/kaiobarbosa/)
-![https://tryhackme.com/p/Yoshiroh](https://img.shields.io/badge/tryhackme-brightgreen)
+[![](https://img.shields.io/badge/tryhackme-brightgreen)](https://tryhackme.com/p/Yoshiroh)
 </div>
