@@ -25,7 +25,9 @@
 <br/>
 
 <p>
-  Olá, me chamo<em><b> Kaio</b></em>,e sou um estudande de defesa cibernética com foco em Blue Team mais especificamente em SOC e Threat Intelligence. Gosto de CTF's, principalmente o TryHackMe. Adoro escrever e ler, e não atoa, tenho um blog em que escrevo resoluções de CTF's e em breve, estarei lançando outro blog para os acadêmicos do meu munícipio.
+  Olá, meu nome é <b>Kaio</b> e sou estudante de Defesa Cibernética, com foco em Blue Team, especialmente nas áreas de SOC e Threat Intelligence. Tenho grande interesse por desafios práticos, participando ativamente de CTFs, com destaque para a plataforma TryHackMe, onde busco constantemente aprimorar minhas habilidades técnicas e analíticas.
+
+Além da área técnica, sou apaixonado por leitura e escrita. Mantenho um blog onde publico resoluções de CTFs, compartilhando aprendizados e contribuindo com a comunidade de segurança da informação. Em breve, também lançarei um novo blog voltado para acadêmicos do meu município, com o objetivo de incentivar o estudo, a troca de conhecimento e o desenvolvimento profissional.
 </p>
 
 
